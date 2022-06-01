@@ -13,7 +13,7 @@ git-enabled terminal to follow the steps below. The `--recursive` flag is necess
 Babylon Native makes extensive use of submodules for dependencies.
 
 ```
-git clone --recursive https://github.com/BabylonJS/BabylonNative.git
+git clone --recursive git@github.com:iwaken71/BabylonNative.git
 ```
 
 Babylon Native requires Babylon.js. You will need to install NPM packages to resolve these dependencies. From the root
